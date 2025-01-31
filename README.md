@@ -1,5 +1,5 @@
 # 👋 Hello! Welcome to my Github profile.
-## My name is Eleandro and my nickname is "ePav-dev"!
+## My name is Eleandro and my nickname is "ePav-dev"! <picture>  <img alt="github-snake" src="octocat-1738334974520.png" /> </picture>
 
 ## Estou aprendendo
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
@@ -21,9 +21,7 @@
 </div>
 
 
-<picture>
-  <img alt="github-snake" src="octocat-1738334974520.png" />
-</picture>
+
 <!--
 **ePav-dev/ePav-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
