@@ -1,5 +1,5 @@
 # 👋 Hello! Welcome to my Github profile.
-## My name is Eleandro and my nickname is "ePav-dev"! <picture>  <img alt="github-snake" src="octocat-1738334974520.png" /> </picture>
+## My name is Eleandro and my nickname is "ePav-dev"! <picture>  <img alt="Tjena !!!" src="octocat-1738334974520.png" style="width:200px; /> </picture>
 
 ## Estou aprendendo
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
@@ -16,8 +16,8 @@
 
 <div>
 <a href="https://github.com/seu-usuário-aqui">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuário-aqui&layout=compact&langs_count=7&theme=dracula"/>
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=seu-usuário-aqui&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ePav-dev&layout=compact&langs_count=7&theme=dracula"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=ePav-dev&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
 
