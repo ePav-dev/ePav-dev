@@ -1,5 +1,5 @@
 # 👋 Hello! Welcome to my Github profile.
-## My name is Eleandro and my nickname is "ePav-dev"! <picture>  <img src="octocat-1738334974520.png" alt="Tjena" style="width:30px;" /> </picture>
+## My name is Eleandro and my nickname is "ePav-dev"! <picture>  <img src="octocat-1738334974520.png" alt="Tjena" width="30" /> </picture>
 
 ## Estou aprendendo
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
