@@ -1,39 +1,34 @@
-# 👋 Hello! Welcome to my Github profile.
-## My name is Eleandro and my nickname here is "ePav-dev", so Welcome
-<picture> <img src="octocat-1738334974520.png" alt="Tjena" width="150" /> </picture>
+# 👋 Thanks for stopping by! Welcome to my GitHub profile.
 
-## Researching and Practicing
-<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" width="40" height="40"/>
+My name is Eleandro, but you can call me "ePav-dev". I'm passionate about research and practice, always seeking to learn and improve my skills.
 
-## Contatos:
-
-<div>
-<!--<a href="https://www.youtube.com/seu-canal-youtube-aqui" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-<a href="https://instagram.com/seu-usuário-instagram-aqui" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-<a href="https://www.twitch.tv/seu-usuário-aqui" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/seu-usuário-linkedln-aqui" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>-->   
+## About Me
 <a href = "mailto:eleandro@pavanatti.com.br"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-</div>
-
-<div>
-<a href="https://github.com/seu-usuário-aqui">
-<!--<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ePav-dev&layout=compact&langs_count=7&theme=dracula"/>-->
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=ePav-dev&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>
+<a href="https://www.linkedin.com/in/pavanatti-eleandro-2a75bb25" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 
 
+⚡ *I'm an engineer, a dad, and a ham radio enthusiast who loves to chat over a good cup of coffee. Think of me as a multitasking wizard who can fix your gadgets, tell dad jokes, and discuss the latest radio frequencies—all while sipping on a perfectly brewed espresso. ☕🔧📻*
 
-<!--
-**ePav-dev/ePav-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Currently Learning
+https://img.shields.io/badge/just%20the%20message-8A2BE2
 
-Here are some ideas to get you started:
+- ☕ Java: Brewing up some robust code.
+- 🌐 HTML: Crafting the web, one tag at a time.
+- 🐍 Python: Slithering through data and algorithms.
+- 💻 C++: Building powerful and efficient software.
+- 🤖 AI Models: Exploring the fascinating world of artificial intelligence.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## Looking to Collaborate On
+- 🚀 Software Development: *Crafting innovative solutions and pushing the boundaries of technology.*
+- 🤖 Artificial Intelligence: *Exploring the fascinating world of AI and machine learning.*
+- 🎮 PC Games: *Creating immersive gaming experiences that captivate and entertain.*
+- 📻 Ham Radio: *Connecting with fellow enthusiasts and diving into the world of amateur radio.*
+- 🔧 Electronics: *Tinkering with circuits and bringing electronic projects to life.*
+
+## Featured Projects
+- [Project Name 1](link to the project): Brief description of the project.
+- [Project Name 2](link to the project): Brief description of the project.
+
+## GitHub Stats
+![ePavs's GitHub stats](https://github-readme-stats.vercel.app/api?username=ePav-dev&show_icons=true&theme=radical)
