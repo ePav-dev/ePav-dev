@@ -10,13 +10,13 @@ My name is Eleandro, but you can call me "ePav-dev". I'm passionate about resear
 ⚡ *I'm an engineer, a dad, and a ham radio enthusiast who loves to chat over a good cup of coffee. Think of me as a multitasking wizard who can fix your gadgets, tell dad jokes, and discuss the latest radio frequencies—all while sipping on a perfectly brewed espresso. ☕🔧📻*
 
 ## Currently Learning
-https://img.shields.io/badge/just%20the%20message-8A2BE2
+![GitHub Created At](https://img.shields.io/badge/JavaScript-Learning-blue) ![GitHub Created At](https://img.shields.io/badge/HTML-Learning-blue) ![GitHub Created At](https://img.shields.io/badge/Python-Learning-blue)  ![GitHub Created At](https://img.shields.io/badge/C++-Learning-blue)  ![GitHub Created At](https://img.shields.io/badge/AIModels-Learning-blue)
 
-- ☕ Java: Brewing up some robust code.
-- 🌐 HTML: Crafting the web, one tag at a time.
-- 🐍 Python: Slithering through data and algorithms.
-- 💻 C++: Building powerful and efficient software.
-- 🤖 AI Models: Exploring the fascinating world of artificial intelligence.
+- ☕ Brewing up some robust code.
+- 🌐 Crafting the web, one tag at a time.
+- 🐍 Slithering through data and algorithms.
+- 💻 Building powerful and efficient software.
+- 🤖 Exploring the fascinating world of artificial intelligence.
 
 
 ## Looking to Collaborate On
